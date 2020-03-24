@@ -13,10 +13,10 @@ services produced in an economy during a period of time
 In this project we tried to make a Dataset to see whether there is a correlation between
 cancer rate deaths and the GDP. In less developed countries or regions rather than the
 number of deaths per year was very huge which made us come with the following
-questions:
+questions:\
   ● Is there any relation between cancer death rate and GDP for all the countries
-  around the world?
-  ● Which type of cancer is more common in a certain country?
+  around the world?\
+  ● Which type of cancer is more common in a certain country?\
   ● How has the GDP rate being changing over the past 16 years from the year 2000
   to 2016 per country?
 
