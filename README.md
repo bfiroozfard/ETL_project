@@ -14,10 +14,14 @@ In this project we tried to make a Dataset to see whether there is a correlation
 cancer rate deaths and the GDP. In less developed countries or regions rather than the
 number of deaths per year was very huge which made us come with the following
 questions:
-● Is there any relation between
+  ● Is there any relation between cancer death rate and GDP for all the countries
+  around the world?
+  ● Which type of cancer is more common in a certain country?
+  ● How has the GDP rate being changing over the past 16 years from the year 2000
+  to 2016 per country?
 
 ## Report
-Full repoert about the project, procees and output is in :
+Full repoert about the project, procees and output is in <https://github.com/bfiroozfard/ETL_project/blob/master/ETL-PROJECT%20REPORT.pdf?
 
 ## Note:
 we did not load the Data file since they are huge .each 330 MB.There is a link the report for the source of Data. Report explain the proceed of ETL . We have 2 Jupyter note book. Project 2 is the main one .For did additional job to make "year"  as one column and it is in the other note book.(year_one _col)
